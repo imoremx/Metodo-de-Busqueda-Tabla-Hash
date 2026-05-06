@@ -3,7 +3,7 @@
 Este repositorio contiene la implementación de una **Tabla Hash con Encadenamiento** para la búsqueda eficiente de números enteros.
 
 ##  Archivos del Proyecto
-* `main.py`: Código fuente en Python.
+* `Metodo_Busqueda.py`: Código fuente en Python.
 * `Datos.txt`: Archivo original con 50,000 enteros.
 * `datos_ordenados.txt`: Archivo generado tras el proceso de ordenamiento.
 * `README.md`: Documentación técnica.
